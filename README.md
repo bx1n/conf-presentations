@@ -1,10 +1,7 @@
-# Conference & Meetup Slides Content
+# Conference slide and contents
 
-- [Conference Presentations](#conference-presentations)
-    - [2024](#2024)
-    - [2023](#2023)
-
-## Conference Presentations
+- [2024](#2024)
+- [2023](#2023)
 
 ### 2024
 
